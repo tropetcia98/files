@@ -1,0 +1,6 @@
+selene>=2.0.0rc7
+selenium~=4.22.0
+pytest
+pypdf
+openpyxl
+xlrd
